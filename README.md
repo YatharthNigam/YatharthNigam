@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on Web Development Projects.
 - 💬 Ask me about ReactJS and Web Dev related stuff.
 - 📫 How to reach me <a href="https://www.linkedin.com/in/yatharth-nigam-a25b391b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1W4oMjpVRDyylaJjtwgCrw%3D%3D">LinkedIn</a>
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: There is a Lord Hanuman reference in Black Panther.
 
 <img src='https://github-readme-stats.vercel.app/api?username=YatharthNigam&&show_icons=true&title_color=ffffff&icon_color=0096FF&text_color=daf7dc&bg_color=151515' />

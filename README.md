@@ -1,20 +1,32 @@
-<h1>Hey!,<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I’m Yatharth Nigam</h1> 
+# 👋 Hi, I'm Yatharth Nigam
 
-   ![](https://media.giphy.com/media/9nuXRx5EfGsKc/giphy.gif)
+### 🚀 Full Stack Developer | DSA Enthusiast | Lifelong Learner
 
-- 👀 I’m interested in learning something new everyday.
-- 🌱 I’m currently learning DSA and <a href='https://reactjs.org/'>ReactJS</a>
-- 💞️ I’m looking to collaborate on Web Development Projects.
-- 💬 Ask me about ReactJS and Web Dev related stuff.
-- 📫 How to reach me <a href="https://www.linkedin.com/in/yatharth-nigam-a25b391b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1W4oMjpVRDyylaJjtwgCrw%3D%3D">LinkedIn</a>
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: There is a Lord Hanuman reference in Black Panther.
+I'm a software developer with ~2 years of experience building full-stack solutions at scale. I love writing clean, efficient code and solving real-world problems through tech.
 
-<img src='https://github-readme-stats.vercel.app/api?username=YatharthNigam&&show_icons=true&title_color=ffffff&icon_color=0096FF&text_color=daf7dc&bg_color=151515' />
+### 🛠️ Tech Stack
+- **Languages:** JavaScript, TypeScript, C, C++, SQL  
+- **Frameworks:** Angular, Node.js, .NET, React  
+- **Databases:** MSSQL, PostgreSQL, Redis, Neo4j  
+- **Tools & Cloud:** Docker, Amazon S3, GitLab, Red Hat OpenShift  
+- **Other Interests:** System Design, Low-Level Design, Microservices, DSA
 
+### 🏆 Highlights
+- 🏅 Innovation Award @ Boeing for ML-integrated asset management tool  
+- 🔧 Built scalable tools in Angular, .NET, PostgreSQL, improving efficiency by 85–95%  
+- 📈 Solved 400+ LeetCode problems | Contest Rating: 1601 | Global Rank: 2838  
+- 🎯 Pride Points (×2) for impactful contributions at Boeing  
 
-<!---
-YatharthNigam/YatharthNigam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📌 Currently
+- Working as a Full Stack Developer at Societe Generale, Bengaluru  
+- Exploring system design, backend scaling, and high-impact product engineering  
+- Open to exciting opportunities and collaborations  
 
+### 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/yatharthnigam)  
+- [LeetCode](https://leetcode.com/u/yatharthnigam)  
+- [GitHub](https://github.com/YatharthNigam)
+
+---
+
+_Thanks for visiting!_

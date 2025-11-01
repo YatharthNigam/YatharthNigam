@@ -26,6 +26,7 @@ I'm a software developer with ~2 years of experience building full-stack solutio
 - [LinkedIn](https://www.linkedin.com/in/yatharthnigam)  
 - [LeetCode](https://leetcode.com/u/yatharthnigam)  
 - [GitHub](https://github.com/YatharthNigam)
+- [Portfolio](https://yatharthnigam.github.io/portfolio/)
 
 ---
 

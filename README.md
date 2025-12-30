@@ -2,7 +2,7 @@
 
 ### 🚀 Full Stack Developer | DSA Enthusiast | Lifelong Learner
 
-I'm a software developer with ~2 years of experience building full-stack solutions at scale. I love writing clean, efficient code and solving real-world problems through tech.
+I'm a software developer with ~2.5 years of experience building full-stack solutions at scale. I love writing clean, efficient code and solving real-world problems through tech.
 
 ### 🛠️ Tech Stack
 - **Languages:** JavaScript, TypeScript, C, C++, SQL  

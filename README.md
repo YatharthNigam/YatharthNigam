@@ -5,9 +5,9 @@
 I'm a software developer with ~2.5 years of experience building full-stack solutions at scale. I love writing clean, efficient code and solving real-world problems through tech.
 
 ### 🛠️ Tech Stack
-- **Languages:** JavaScript, TypeScript, C, C++, SQL  
-- **Frameworks:** Angular, Node.js, .NET, React  
-- **Databases:** MSSQL, PostgreSQL, Redis, Neo4j  
+- **Languages:** JavaScript, TypeScript, C#, SQL  
+- **Frameworks:** Angular, .NET, React  
+- **Databases:** MSSQL, PostgreSQL, Oracle
 - **Tools & Cloud:** Docker, Amazon S3, GitLab, Red Hat OpenShift  
 - **Other Interests:** System Design, Low-Level Design, Microservices, DSA
 
